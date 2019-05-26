@@ -31,4 +31,4 @@ function a() {
 ---
 水电费收费
 
-![图片]('http://webutf.com/img/helloweba.png', "测试图片")
+![图片](http://webutf.com/img/helloweba.png)
